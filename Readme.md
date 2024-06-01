@@ -1,4 +1,4 @@
-# Streamlit NBA Stats App
+# NBA Stats App
 
 This Streamlit web application allows users to access NBA statistics through a user-friendly interface. Users can retrieve player season stats, top scorers, top assists, top rebounders, and player shot chart data by specifying various parameters.
 
